@@ -71,13 +71,13 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="h2HnMMq8VR8L7slyEPEh-15" value="StartReading" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="h2HnMMq8VR8L7slyEPEh-1">
-                    <mxGeometry x="230" y="130" width="100" height="60" as="geometry"/>
+                    <mxGeometry x="250" y="130" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="h2HnMMq8VR8L7slyEPEh-23" style="edgeStyle=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.7;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="h2HnMMq8VR8L7slyEPEh-1" source="h2HnMMq8VR8L7slyEPEh-16" target="h2HnMMq8VR8L7slyEPEh-2">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="h2HnMMq8VR8L7slyEPEh-16" value="EndReading" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="h2HnMMq8VR8L7slyEPEh-1">
-                    <mxGeometry x="250" y="390" width="100" height="60" as="geometry"/>
+                    <mxGeometry x="250" y="410" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="h2HnMMq8VR8L7slyEPEh-31" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.075;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="h2HnMMq8VR8L7slyEPEh-1" source="h2HnMMq8VR8L7slyEPEh-24" target="h2HnMMq8VR8L7slyEPEh-4">
                     <mxGeometry relative="1" as="geometry"/>
