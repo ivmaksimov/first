@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Yfhvj9_q1972RufrkOe0" name="BookDatabase">
-        <mxGraphModel dx="974" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="685" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -20,7 +20,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="yoDNomRhEwPU16zgoY9S" name="books-ER">
-        <mxGraphModel dx="985" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="685" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="h2HnMMq8VR8L7slyEPEh-0"/>
                 <mxCell id="h2HnMMq8VR8L7slyEPEh-1" parent="h2HnMMq8VR8L7slyEPEh-0"/>
@@ -176,7 +176,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="YkX_FjYyS1cfpgALLppw" name="books-UML">
-        <mxGraphModel dx="985" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="685" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="c_UIif5kHVgijvH25QhT-0"/>
                 <mxCell id="c_UIif5kHVgijvH25QhT-1" parent="c_UIif5kHVgijvH25QhT-0"/>
@@ -253,7 +253,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="E6StKG7OB3GZpCNb4pRT" name="books-UML-norm">
-        <mxGraphModel dx="985" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="685" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="7nUN5Tn19f-K1CX6Q1xt-0"/>
                 <mxCell id="7nUN5Tn19f-K1CX6Q1xt-1" parent="7nUN5Tn19f-K1CX6Q1xt-0"/>
